@@ -1,0 +1,11 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+DATABASE_URL=postgresql+psycopg://admin:admin@localhost:6886/mono_data
+# Virtual environments
+.venv
+.env
